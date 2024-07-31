@@ -5,21 +5,39 @@ git push -u origin main
 30/07/2024
 Maria Eduarda Simonetti 
 Atividade: sequência lógica estudar para uma prova
+ir para o quarto;
+abrir o guarda roupa;
 pegar a mochila;
+colocar a mochila na cama;
+fechar a porta do guarda roupa;
 abrir a mochila;
-pegar o material necessário;
+pegar o caderno e o estojo;
+largar o material na cama;
 fechar a mochila;
-ir para a mesa;
+abrir a porta do guarda roupa;
+colocar a mochila;
+fechar a porta do guarda roupa;
+ir para cozinha;
+sentar na cadeira;
 abrir o caderno;
 abrir o estojo;
+achar a metéria para estudar;
 ler a matéria;
-pegar o lápis ou a caneta; 
+achar uma folha do caderno;
+pegar a caneta;
+escrver "revisão";
 anotar partes importantes;
-guardar o lápis ou a caneta;
+guardar a caneta;
 fechar o caderno;
+fechar o estojo;
+pegar o material;
+ir para o quarto;
+abrir a porta do guarda roupa;
 pegar a mochila;
 abrir a mochila;
 guardar o estojo;
 guardar o caderno;
 fechar a mochila;
-guardar a mochila.
+guardar a mochila;
+fechar a porta do guarda roupa; 
+sair do quarto.

@@ -1,0 +1,76 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+double soma(double a, double b){
+    return a + b;
+}
+
+double subtracao(double a, double b){
+    return a - b;
+}
+float multiplicacao(float a, float b){
+    return a * b;
+}
+float divisao(float a, float b){
+    return a / b;
+}
+float potenciacao( float base, int expoente){
+    float resposta = 1;
+for (int i = 0; i < expoente; i++){
+    resposta *= base;
+}
+return resposta;
+}
+ 
+ int main()
+ {
+     int obj;
+     double val1, val2, resposta;
+ 
+
+ printf("escolha a operacao:\n");
+ printf("0 - sair \n");
+ printf("1 - soma \n");
+ printf("2 - subtracao \n");
+ printf("3 - multiplicacao \n");
+ printf("4 - divisao \n");
+ printf("5 - potenciacao \n");
+ 
+ scanf("%d" , &obj);
+while( obj != 0)
+{
+     
+ if(obj == 1)
+ {
+     printf("digite o primeiro valor\n");
+     scanf("%lf",&val1);
+     printf("digite o segundo valor\n");
+     scanf("%lf", &val2);
+     resposta = soma(val1, val2);
+     printf("o valor e: %.5lf\n" , resposta);
+ }
+ 
+ printf("escolha a operacao:\n");
+ printf("0 - sair \n");
+ printf("1 - soma \n");
+ printf("2 - subtracao \n");
+ printf("3 - multiplicacao \n");
+ printf("4 - divisao \n");
+ printf("5 - potenciacao \n")
+ 
+ scanf("%d", &obj);
+ while(obj !=0)
+ {
+     
+     if(obj ==1)
+     {
+         printf("digite o primeiro valor\n");
+         scanf("%lf", &val1);
+         printf("digite o segundo valor\n");
+         scanf("%lf", &val2);
+         resposta = subtracao(val1, val2);
+         printf("o valor e: %lf\n", resposta);
+     }
+
+    return(0);
+}
+}
